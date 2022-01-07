@@ -1,0 +1,51 @@
+header {
+  display: grid;
+  grid-template-areas:
+    "header header header scoreBoard";
+}
+
+h1 {
+  grid-area: header;
+  justify-self: center;
+  align-self: center;
+}
+
+.scoreBoard {
+  grid-area: scoreBoard;
+  display: grid;
+  grid-template-rows: 1 1;
+  justify-content: center;
+  align-content: center;
+}
+
+.field {
+  display: flex;
+  flex-flow: row wrap;
+  gap: 2%;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  box-sizing: border-box;
+  flex-flow: column;
+  width: 150px;
+  height: 200px;
+  border: black 1px solid;
+  border-radius: 5px;
+  margin: 2%;
+}
+
+.pic {
+  flex: 8;
+  pointer-events: none;
+}
+
+.characterName {
+  display: flex;
+  box-sizing: border-box;
+  flex: 2;
+  justify-content: center;
+  align-items: center;
+  pointer-events: none;
+}

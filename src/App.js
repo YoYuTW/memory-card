@@ -8,7 +8,7 @@ function App() {
   const [highScore, setHighScore] = useState(0);
   const [temp, setTemp] = useState([]);
   const [names, setNames] = useState([`Ninomae Ina'nis`, `Gawr Gura`, `Amelia Watson`, `Mori Calliope`, `Takanashi Kiara`,
-  `IRyS`, `Hakos Baelz`, `Ouro Kronni`, `Nanashi Mumei`, `Ceres Fauna`, `Tsukumo Sana`]);
+  `IRyS`, `Hakos Baelz`, `Ouro Kronii`, `Nanashi Mumei`, `Ceres Fauna`, `Tsukumo Sana`]);
 
   const isCardHasBeenClicked = (name) => {
     if (temp.indexOf(name) !== -1){

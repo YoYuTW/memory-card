@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/memory-card/static/css/main.d77334f3.css",
-    "main.js": "/memory-card/static/js/main.39bc3185.js",
+    "main.css": "/memory-card/static/css/main.f4daf28e.css",
+    "main.js": "/memory-card/static/js/main.dec94ea3.js",
     "static/js/787.852ea1bb.chunk.js": "/memory-card/static/js/787.852ea1bb.chunk.js",
     "static/media/bae.png": "/memory-card/static/media/bae.4087dab160a926ed99d0.png",
     "static/media/irys.png": "/memory-card/static/media/irys.dea4b3389bdc4f33947b.png",
@@ -14,13 +14,14 @@
     "static/media/fauna.png": "/memory-card/static/media/fauna.76e546d0ee3bd977bdd9.png",
     "static/media/sana.png": "/memory-card/static/media/sana.b4c087f508ca9b19e80f.png",
     "static/media/mumei.png": "/memory-card/static/media/mumei.d5672f1f3565f42fba62.png",
+    "static/media/Hololive_English_logo.png": "/memory-card/static/media/Hololive_English_logo.6837ff3b10a7cc4a8a89.png",
     "index.html": "/memory-card/index.html",
-    "main.d77334f3.css.map": "/memory-card/static/css/main.d77334f3.css.map",
-    "main.39bc3185.js.map": "/memory-card/static/js/main.39bc3185.js.map",
+    "main.f4daf28e.css.map": "/memory-card/static/css/main.f4daf28e.css.map",
+    "main.dec94ea3.js.map": "/memory-card/static/js/main.dec94ea3.js.map",
     "787.852ea1bb.chunk.js.map": "/memory-card/static/js/787.852ea1bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d77334f3.css",
-    "static/js/main.39bc3185.js"
+    "static/css/main.f4daf28e.css",
+    "static/js/main.dec94ea3.js"
   ]
 }

@@ -3,4 +3,13 @@
   flex-flow: column;
   width: 150px;
   height: 200px;
+  background-image: url('../component/Hololive_English_logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.card>* {
+  pointer-events: none;
+  background-color: #fff;
 }

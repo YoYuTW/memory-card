@@ -1,3 +1,7 @@
+body {
+  background-color: aqua;
+}
+
 header {
   display: grid;
   grid-template-areas:
@@ -19,6 +23,7 @@ h1 {
 }
 
 .field {
+  margin: 0 200px;
   display: flex;
   flex-flow: row wrap;
   gap: 2%;

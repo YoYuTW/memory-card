@@ -8,7 +8,7 @@ const Field = (props) => {
   return (            
     <div className='field' style={style}>
       {props.names.map(
-        name => <Card characterName={name} randomFunction={(e) => props.randomFunction(e)}/>)}
+        name => <Card characterName={name} randomFunction={props.randomFunction}/>)}
     </div>
   )
 };
